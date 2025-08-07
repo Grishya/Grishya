@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Grishya
-- 👀 I’m interested in front-end development react.js development
-- 
+- 👋 Hi, I’m Grishya
+- 👀 I’m interested in front-end development, react.js development
+- You can reach me at -mgrishya1@gmail.com
+  
 
 
 <!---
